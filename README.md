@@ -56,3 +56,4 @@ I want to focus more on mastering more complex projects to improve my knowledge 
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 
 
+# interactive-rating-component-main
