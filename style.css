@@ -7,12 +7,20 @@ body {
     /* height: 100vhu; */
 }
 
+main {      /* <---- Add */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }  
+
 .QR-container {
-    width: 375px;
-    margin: auto;
+    width: 350px;
+    /* margin: auto; */
     background-color: hsl(0, 0%, 100%);
     text-align: center;
     border-radius: 30px;
+    top: 25%;
 }
 
 .attribution {
@@ -21,7 +29,7 @@ body {
 }
 
 img {
-    max-width: 340px;
+    max-width: 320px;
     margin: 1rem;
     padding: 0;
     border-radius: 20px;
